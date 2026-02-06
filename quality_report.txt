@@ -1,0 +1,20 @@
+============================================================
+DATA QUALITY REPORT
+============================================================
+
+Total records processed:  42115
+
+Valid vs. invalid counts:
+  Valid:   42114
+  Invalid: 1
+
+Completeness percentage per field:
+  content              100.0%
+  guid                 100.0%
+  heading              100.0%
+  pubDate              0.0%
+  url                  100.0%
+
+Common validation failures:
+      1x  url: malformed URL format
+============================================================
